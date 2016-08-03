@@ -1,0 +1,37 @@
+              头盔                                    盾牌与防具                     武器
+完美的钻石    Attack Rating +30                       所有抗性 +15%-20%              Damage To Undead +156%-165%
+完美的紫水晶  Strength +7-8                           Defense +15-20                 Attack Rating +41-50
+完美的祖母绿  Dexterity +7-8                          Poison Resistance +26%-30%     Poison Damage +9-10
+完美的红宝石  Max Life +20-25                         Fire Resistance +26%-30%       Fire Damage +4-8
+完美的蓝宝石  Max Mana +21-25                         Cold Resistance +26%-30%       Cold Damage +3-6
+完美的黄宝石  Chance Of Getting Magic Items +20%-25%  Lightning Resistance +26%-30%  Lightning Damage +1-12
+完美的骷髅头  Replenish Life +4                       Attacker Takes Damage Of +6-8  Life Stolen Per Hit Min +3%
+              Regenerate Mana +17%                                                   Mana Stolen Per Hit Min +4%
+
+护身符:
+All Skill Levels              +3
+Add experience                +75% (as more as possible)
+Extra Gold From Monsters      +160% (as more as possible)
+Faster Run/Walk               +45%
+Heal Stemina Plus             +15%
+Light Radius                  +8
+Faster Cast Rate              +40%  X
+Increased Attack Speed        +40%  X
+Faster Hit Recovery Rate      +55%  X
+Faster Block Rate             +30%  X
+四防                          +25
+
+护身符(宝石):
+Chance Of Getting Magic Items +40% (as more as possible)
+Attack Rating +30             +50
+所有抗性                      +40%
+Damage To Undead              +165%
+所有属性                      +10
+Defense                       +20
+Poison Damage                 +9-10
+Fire Damage                   +4-8
+Cold Damage                   +3-6
+Lightning Damage              +1-12
+Attacker Takes Damage Of      +8
+Life Stolen Per Hit Min       +9%
+Mana Stolen Per Hit Min       +15%
